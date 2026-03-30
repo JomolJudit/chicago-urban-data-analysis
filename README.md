@@ -57,7 +57,7 @@ An end-to-end SQL-based analysis of Chicago's urban landscape, exploring the rel
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/chicago-urban-data-analysis.git
+git clone https://github.com/JomolJudit/chicago-urban-data-analysis.git
 cd chicago-urban-data-analysis
 
 # Install dependencies
